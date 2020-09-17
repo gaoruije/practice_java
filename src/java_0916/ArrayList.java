@@ -3,7 +3,7 @@ package java_0916;
 public class ArrayList {
 
     //数组逆序排列
-    public static void reverse(int[] arr) {
+    public static void reverse(int[] arr) {//hf
         int left = 0;
         int right = arr.length - 1;
         while (left < right) {
